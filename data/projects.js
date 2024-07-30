@@ -17,7 +17,7 @@ export const projects = [
   {
     name: 'Pricing Table Project',
     image: 'img/pro8.png',
-    link: 'https://md-saheel.github.io/Pricing-Table-Project/">',
+    link: 'https://md-saheel.github.io/Pricing-Table-Project/',
   },
   {
     name: 'Landing Page',

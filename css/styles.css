@@ -252,34 +252,3 @@ img {
     padding: 0 0 10px;
   }
 }
-/* @media (max-width: 884px) {
-  #navbar {
-    padding: 1rem;
-    justify-content: center;
-  }
-
-  #contact .container p {
-    margin-bottom: 1.5rem;
-  }
-
-  #contact .container .social > div a {
-    display: block;
-    margin: 1rem 1.5rem;
-  }
-
-  #main-footer .container {
-    flex-direction: column;
-  }
-
-  #main-footer #creator {
-    margin-top: 1rem;
-  }
-} */
-#fcc-toggle {
-  height: 0px;
-  width: 0px;
-}
-.fcc_hamburger {
-  height: 0px;
-  width: 0px;
-}
